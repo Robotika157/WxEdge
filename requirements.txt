@@ -1,0 +1,6 @@
+# WxEdge 1.0 requirements
+# Usage: pip install -r requirements.txt
+
+# Base ------------------------------------------------------------------------
+wxpython>=4.2.1
+datetime>=5.5
