@@ -1,9 +1,0 @@
-________________________________________________________________________________________________
-NEW SESSION OPENED AT 04-09-2024 11:24:38 (D:M:Y H:M:S)
-[ACTION TAKEN] - __init__ - TYPE: INIT at 04-09-2024 11:24:38
-[ACTION TAKEN] - InitUI - TYPE: INIT at 04-09-2024 11:24:38
-[ACTION TAKEN] - AddNewTab - TYPE: ACTION at 04-09-2024 11:24:38
-[ACTION TAKEN] - OnNavigated - TYPE: ACTION at 04-09-2024 11:24:40
-VISITED 'https://www.google.com/' AT 04-09-2024 11:24:40
-[ACTION TAKEN] - OnToggleFullScreen - TYPE: ACTION at 04-09-2024 11:24:51
-[ACTION TAKEN] - OnToggleFullScreen - TYPE: ACTION at 04-09-2024 11:24:52
